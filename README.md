@@ -1,8 +1,11 @@
 # FaceLabs
 
 <div align="center">
-  <a href="https://github.com/acedmicabhishek/FaceLabsDownload/releases/latest">
     <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION-FOR_ANDROID-2ea44f?style=for-the-badge&logo=android" alt="Download Latest Version" height="50" />
+  </a>
+  <br/>
+  <a href="https://github.com/acedmicabhishek/FaceLabsDownload/releases/latest">
+    <img src="https://img.shields.io/badge/CLICK_HERE_TO_DOWNLOAD-blue?style=for-the-badge&logo=github" alt="Click to Download" height="30" />
   </a>
 </div>
 <br/>
